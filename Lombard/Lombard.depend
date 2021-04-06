@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1578608441 source:e:\projects\lombard\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<math.h>
+

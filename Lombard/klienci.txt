@@ -1,0 +1,6 @@
+5
+Krzysztof Kownacki 1 1300.000000
+Kornel Makuszynski 2 21000.000000
+Pawel Lewandowski 3 30.000000
+Kamil Kuprian 4 45.000000
+Leon Zawodowiec 6 0.000000

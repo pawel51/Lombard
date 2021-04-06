@@ -1,0 +1,5 @@
+4
+100 2 Sluchawki_jbl zastaw nowe 350.000000 400.000000 3 3 2019
+102 2 Wiertarka_udarowa sprzedane uzywane 250.000000 300.000000 10 12 2019
+103 1 Zegarek_po_dziadku zastaw uzywane 250.000000 350.000000 11 2 2019
+104 6 Glock zastaw uzywany 600.000000 1000.000000 8 1 2020
